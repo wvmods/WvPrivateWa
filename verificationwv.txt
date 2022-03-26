@@ -1,0 +1,6 @@
+{
+ "version":"v2.0F",
+ "title":"Atualização disponível v2.0🛠",
+ "description":"Opa! Já viu a nova atualização ?\n\nBaixe já para manter seu WhatsApp na melhor versão! 👏🏻🚀",
+ "download":"https://t.me/+cUOAgWF9DqhiNjkx"
+}
